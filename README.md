@@ -7,6 +7,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DubiumEkb&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DubiumEkb&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DubiumEkb&icon=2&color=4)](https://github.com/DubiumEkb?tab=repositories)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
